@@ -1,4 +1,4 @@
 aabb
 cccxx
 nnn
-masterEdit
+mergeEdit
